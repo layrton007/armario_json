@@ -1,0 +1,62 @@
+{
+  ".armario": {
+    "width": "20%",
+    "height": "100%",
+    "background-color": "aqua",
+    "border": "3px solid black",
+    "float": "left",
+    "position": "relative",
+    "border-radius": "10%"
+  },
+  ".tipo1": {
+    "width": "75%",
+    "border": "3px solid black",
+    "text-align": "center",
+    "border-radius": "10%",
+    "background-color": "green",
+    "color": "white"
+  },
+  ".tipo2": {
+    "width": "75%",
+    "border": "3px solid black",
+    "text-align": "center",
+    "border-radius": "10%",
+    "background-color": "rgb(253, 49, 49)",
+    "color": "white"
+  },
+  ".tipo3": {
+    "width": "75%",
+    "border": "3px solid black",
+    "text-align": "center",
+    "border-radius": "10%",
+    "background-color": "rgb(170, 118, 20)",
+    "color": "white"
+  },
+  ".abertura1": {
+    "border": "3px solid black",
+    "width": "50%"
+  },
+  ".abertura2": {
+    "border": "3px solid black",
+    "width": "50%"
+  },
+  ".btnMudar": {
+    "width": "17%",
+    "height": "12%",
+    "border-radius": "100%",
+    "background-color": "gray",
+    "position": "relative",
+    "margin-bottom": "40%",
+    "margin-left": "20%"
+  },
+  ".numero": {
+    "position": "relative",
+    "width": "20%",
+    "height": "10%",
+    "border": "3px solid black",
+    "margin-top": "3%",
+    "margin-left": "70%",
+    "text-align": "center",
+    "background-color": "burlywood"
+  }
+}
